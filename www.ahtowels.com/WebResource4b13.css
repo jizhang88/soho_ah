@@ -1,0 +1,127 @@
+﻿/* RadSlider for ASP.NET AJAX Default Skin */
+.RadSlider_Default .rslTrack
+{
+	border-color:#b9b9b9 #939393 #939393 #b9b9b9;
+}
+
+.RadSlider_Default .rslHorizontal a.rslHandle
+{
+	background-image:url('WebResource174d.gif?d=gHMzoEjpxs7H6c8OMSe_6NjoxMnt-xCUHxoYpMj8jaFtIcwTddW22UJeX1zhX0wuJzhRylJ398TMZLqhiBiXVJVDSAxR9eVhgXiaBfT1hxcCMH_ZUqFwbGX7bg-S5P5Wg_z_gg2&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslHorizontal a.rslDraghandle
+{
+	background-image:url('WebResourcea035.gif?d=2p6nfbiB8Csl22liM9C1L4VpE5jcAefxBBllljeoSW9pdzlcYbbvriBtnVGL9bqAAgCNTMGFBarySLhc2JZipLnmuiKoThZj90ideQ2FNHKOIiCLg5bTdJPvdgk3swRpyoJuw5B9UAgqnbVoXCWUOzkHj281&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslTop a.rslDraghandle
+{
+	background-image:url('WebResource9c2f.gif?d=-1mhNhmp-3asrQio-x7tRSjV733hdxX9hb5obTXurGQTjTtGLFn4ZstUKnJAf_5jBGSr6_RFzf_LS1BdUEl9dbYolqYxKTkCrNpevegeqajIjn5UoG7a1e6Lyr0-rGnJuYB445gWqUJTC8OrwLFiXrgQAsY1&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslHorizontal .rslTrack
+{
+	background:url('WebResourced627.gif?d=f7mr_77DOW6sm5Li4PDQ9XVogzGSlz-k7NKfHio6DKM3oPTmZlQK0cXr_HApFgZ5CosFTT7vQ0VnPaWB7qHdK4fUcwa1fuReyPuSW91VHdGU9MnQeIlDbLfOHfcvyyvzAEgljeHVnFwqZsazxiY4FgYJh2w1&amp;t=636927317309866054') repeat-x;
+}
+
+.RadSlider_Default .rslHorizontal .rslSelectedregion
+{
+	background:url('WebResource97da.gif?d=j1CHO6rrooMpt5MutknJLjFpJTo0DzAPPM2JIeXdrJ1AR_KkSgFz_kYnDvy9Zk-TZkjVW3CT2-N-zHx7BT8fbsNkEHThSUzUi-nECUNHj51FP4zVth_HRydc12eavWj_C2Tt4xfaUTNfZKmZTB72x5w6G7O6p4ACQfNt96niCRW_mb-j0&amp;t=636927317309866054') right top no-repeat;
+}
+
+/* vertical slider */
+.RadSlider_Default .rslVertical a.rslHandle
+{
+	background-image:url('WebResource2f3a.gif?d=RCMm37zGw2kN3oKBOkLlW91h8dWXtmwkUeY7TaciH-00QvogrPfQex6E8G2_R5RsfF55fU8q0MFOo3GmA6-xPymK6yOfdRGt131Jil3FBp-xcBYuOwhqiaYTBpsVSYxJlgGGDAez97QeOqxi0SG88FmkQbY1&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslVertical .rslTrack
+{
+	background:url('WebResource52de.gif?d=agnqG_UGJn8dR7gkYtTOSFnGALCX02L1yTS3i_xePzmgaZYXCu5QVfpSe3la13BJktjAJFLjyKU8Z4TFXiLm4s7riZW-JU7M_1p56jP-AVpZpjZzgV_OkrkV005iZP1HzjwT3lwslgrVYI6wlD8DXKkRtNg1&amp;t=636927317309866054') repeat-y;
+}
+
+.RadSlider_Default .rslVertical .rslSelectedregion
+{
+	background:url('WebResourceab36.gif?d=qNt5aC_cKIMy-qW2V2LfnOqHvX8okmMd16CIohi10FGfrN_GpaaFZb3D2wxZYPbQtC8FsrexLD_o2DAxrzxGt2UWm5CoRvP18UVZkALF6MWbR6gBQughXdfvoAKXDWa6x-9QAGof3gcxz1Pq-OaV7RBhrma3R7nm4fV3mJLhwy8F7g4V0&amp;t=636927317309866054') left bottom no-repeat;
+}
+
+.RadSlider_Default .rslVertical a.rslDraghandle
+{
+	background:url('WebResource1796.gif?d=AYEkYCA7r5a9OAz5DY_XzvSS9u5tdBW8Ke6tnGt8DBG9FNsDv7W6I6EtnHi6gDYaknEXDZsY62tmz1S5R0BQnhpSe20jzATLxKkMV7OfKQRDaFTQ65oW71cDx1tyTTijWGP0BdS3wfGN7KyZfpIo6T7inX01&amp;t=636927317309866054') no-repeat;
+}
+
+.RadSlider_Default .rslLeft a.rslDraghandle
+{
+	background:url('WebResourcea4d9.gif?d=DAcFlCVAVtpNeQMcddtoyVHORAH1mvL-Pe4R5OM_Vn6QLiOARz0ac77PMWZUYkU0OybzcTWLFfGWaj2eWlGDpD9R2OiRjMk-bmSwxuQ82NcNfF2MXhbMn68OSmosUnnVh21wgQ1-w701UYi2bqOVIaoaVU01&amp;t=636927317309866054') no-repeat;
+}
+
+.RadSlider_Default .rslItem,
+.RadSlider_Default .rslLargeTick span
+{
+	color:#333;
+}
+
+.RadSlider_Default .rslItemsWrapper .rslItemSelected
+{
+	color:#000;
+}
+
+/* horizontal slider items */
+.RadSlider_Default .rslHorizontal .rslItem
+{
+	background-image:url('WebResourcedc1f.gif?d=uMmMx4OMvaxH0ZBtmxYpJ2SGFnW0ovRF-7E3egmiqTejHNpITdfgOQRBLIr-CYVC5dJtkt-mc5X-nJspy61a3U-FYjmr7Hgdt6QmEdj_LmyzYuTSHQgFaHVzZh7mXcSyuvyv89w6IojZsf5hv59EpuVJ3s81&amp;t=636927317309866054');
+}
+
+/* vertical slider items */
+.RadSlider_Default .rslVertical .rslItem
+{
+	background-image:url('WebResource1924.gif?d=DV8DzX1Cswrz05bM8CYcuqXghQ879F2MW2YtNvi3hIwpmjf_8s1-HB_FC9L_-i-1UjaSanpLc-T-4jmEWX1pv3uRGEkbVmpjMc63ysLA0p1PGjMLHFuc5hBOGODBFYqgbWWfQjMMDndDQ7yvU3ojcJyrwoc1&amp;t=636927317309866054');
+}
+
+/* horizontal slider - TrackPosition=Top/Bottom */
+.RadSlider_Default .rslTop .rslSmallTick,
+.RadSlider_Default .rslBottom .rslSmallTick
+{
+	background-image:url('WebResource7c6e.gif?d=ko-7OenHoK0GfJcn28ZMFto6aMjuYFsqx8LZWg8hJrR8ncilKV86Cpmu1gpheK4OfCpGu0DyqB3g0ayDmgqSXy5AIINovBZV-oofY66HPuwg_Gxza82qtcNWe0We4kXPR7WF-538XOztMMhmk912DuGp-x41&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslTop .rslLargeTick,
+.RadSlider_Default .rslBottom .rslLargeTick
+{
+	background-image:url('WebResource36fe.gif?d=XFKt7Lq5wCIsd97bL3C5_rvDUHWP7QjF8oildFvZAw_XYiUi5m103LrRZ2t_iX_c33HH67pUCU7XgrO_elL9_9mDWeHsXEYznhQTpjwTYuRAQsV_2yq7JPubSNb2MgiN94CMQdkdA9mAGTB7FQk_HpiIGog1&amp;t=636927317309866054');
+}
+
+/* vertical slider - TrackPosition=Left/Right */
+.RadSlider_Default .rslLeft .rslSmallTick,
+.RadSlider_Default .rslRight .rslSmallTick
+{
+	background-image:url('WebResource33bb.gif?d=BXRUfPEX3BC6MzYAo_sxD_46waIwkCh_-mbGW7Gn46PqaThgN1w2Ef48HavGdaPGNqU4beivwDVXoKlKWk4ovbpP6gkB4DvDG-TwEDE54DJmVafEL-DHBTRoYJI_VdHCnSm6xpaQnz9BzPddvcXDJ2xrKj01&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslLeft .rslLargeTick,
+.RadSlider_Default .rslRight .rslLargeTick 
+{
+	background-image:url('WebResourcecaba.gif?d=S1xsQArh9_0QZVqaQeKSZhoZ1UBYtf_T6KhAVV74qUK7l7lBIPnJ58vY-B0wUvZC2QSggmItOXWebsDbKmrJ00b4HsUzTblRz51aw4wTSne1LA-MTGp3_E2fj_ZxDfzDbE5PthytfeuhP1pEGvsSEH22mQU1&amp;t=636927317309866054');
+}
+
+/* horizontal slider - TrackPosition=Center */
+.RadSlider_Default .rslMiddle .rslSmallTick
+{
+	background-image:url('WebResource40f0.gif?d=KbJTm058Oah3YpstBV4UjFmvbsBOHaqQd4VHsPTxgW27HanOqME8q_3QETrMERquFEN0CARoO8NbQ6ADAWe12nFi16-BFyo5e0Z1VQJXofouhhKyAGAkIa0D3I2nB00_p3F5amG0_kEGOkLwG9v_tI8w0mVGZfJ7CpI1JMq9cazhvmy00&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslMiddle .rslLargeTick  
+{
+	background-image:url('WebResourcedd41.gif?d=BIh7jRXLHj_cky47uP9cYlnO9l6Tb_CELoc5YJT7sqIG8w3lug4u_ZueWnLiyCoIaymT1RS1OfiOw0hGV2IVDx86rsz21avvUW3pgmbhwHgIQAzsRBS7W4BFGIAExiTULSPfqTLxPqDl-7gKyO1ny44uDPyi8P_CPUJBcoXeJG7CipyK0&amp;t=636927317309866054');
+}
+
+/* vertical slider - TrackPosition=Center */
+.RadSlider_Default .rslCenter .rslSmallTick
+{
+	background-image:url('WebResource8ad9.gif?d=v8k_kRn8za4uNJqOXxiJsyYDKpolWjNwpWJ6tAEnoFL16QYJXoUvqaZkSB4THWwb64qNdE1o_-SbxUB5k7K8uFiJ4W0uk1g6uKMENOjeatsHqvTxCnkaABNH3OfdpVcLmmJxnOer_drzaOXJfL9UZuub0ZWPZqRMDAP0PpkjQeutDo-U0&amp;t=636927317309866054');
+}
+
+.RadSlider_Default .rslCenter .rslLargeTick
+{
+	background-image:url('WebResource93f9.gif?d=t-A_nsYlnnFNRoCihtMNmTV_TqWU8M_hf3tZnK-XX2qgGnsBkOocrcOX7l-jtqzlPtXEWmEQcGcU-iN18WoIJZg8z0y2aTQ4N1e1AGkgK8pCWzoGg6KDSv_duGlASEpWKq8N6EFVuW0NDakLVdUS0YSK-aLUKIl-r87hBS0f_AOCsggy0&amp;t=636927317309866054');
+}
