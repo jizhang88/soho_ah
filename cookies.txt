@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.ahtowels.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	ppfii0bq51v1a4nb0rd5yx0o
-www.ahtowels.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-www.ahtowels.com	TRUE	/	FALSE	1999999999	SessionId	4d833912-f0e2-486c-b88f-b3cc8d6e88c6
-
