@@ -36,12 +36,12 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 17:48:54	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902275 (from sohu20210602.local/product-category/hardware/)
 17:49:00	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/?p=41 (from sohu20210602.local/my-account-2/)
 17:49:34	Warning: 	Moved Permanently for sohu20210602.local/?p=43
-17:49:34	Warning: 	File has moved from sohu20210602.local/?p=43 to http://sohu20210602.local/about/
+17:49:34	Warning: 	File has moved from sohu20210602.local/?p=43 to about/
 17:49:34	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/elementor/css/post-414.css?ver=1626119055 (from sohu20210602.local/contact-us/)
 17:49:35	Warning: 	Moved Permanently for sohu20210602.local/?p=414
-17:49:35	Warning: 	File has moved from sohu20210602.local/?p=414 to http://sohu20210602.local/contact-us/
+17:49:35	Warning: 	File has moved from sohu20210602.local/?p=414 to contact-us/
 17:49:39	Warning: 	Moved Permanently for sohu20210602.local/?p=39
-17:49:39	Warning: 	File has moved from sohu20210602.local/?p=39 to http://sohu20210602.local/cart-2/
+17:49:39	Warning: 	File has moved from sohu20210602.local/?p=39 to cart-2/
 17:49:53	Error: 	"Not Found" (404) at link sohu20210602.local/Edge/ (from sohu20210602.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
 17:49:53	Error: 	"Not Found" (404) at link sohu20210602.local/Gecko/ (from sohu20210602.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
 17:49:53	Error: 	"Not Found" (404) at link sohu20210602.local/Firefox/ (from sohu20210602.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
@@ -66,7 +66,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 17:55:23	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg (from sohu20210602.local/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.6.7.3)
 17:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-json/wp/v2/product/2697 (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
 17:55:24	Warning: 	Moved Permanently for sohu20210602.local/?p=2697
-17:55:24	Warning: 	File has moved from sohu20210602.local/?p=2697 to http://sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/
+17:55:24	Warning: 	File has moved from sohu20210602.local/?p=2697 to product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/
 17:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsohu20210602.local%2Fproduct%2Fmicrofiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable%2F (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
 17:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsohu20210602.local%2Fproduct%2Fmicrofiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable%2F&format=xml (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
 17:55:26	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/ddssdf-600x600.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
@@ -77,7 +77,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:00:15	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-includes/js/comment-reply.min.js?ver=5.7.2 (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
 18:00:23	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/product/microfiber-wash-towel-cloths-large-27-x-16-300-gsm/ (from sohu20210602.local/product-category/lighting/)
 18:12:07	Warning: 	Moved Permanently for sohu20210602.local/?p=2708
-18:12:07	Warning: 	File has moved from sohu20210602.local/?p=2708 to http://sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/
+18:12:07	Warning: 	File has moved from sohu20210602.local/?p=2708 to product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/
 18:12:07	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/microfiber-towels-1.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/)
 18:12:10	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/ds-s.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/)
 18:12:17	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/cfdsvs-600x600.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/)
@@ -86,7 +86,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:14:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/s-l1600-4.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/)
 18:14:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902536 (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/)
 18:17:51	Warning: 	Moved Permanently for sohu20210602.local/?p=2882
-18:17:51	Warning: 	File has moved from sohu20210602.local/?p=2882 to http://sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business/
+18:17:51	Warning: 	File has moved from sohu20210602.local/?p=2882 to product/large-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business/
 18:17:51	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsohu20210602.local%2Fproduct%2Flarge-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business%2F (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business/)
 18:17:52	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/81kNmP3M4BL._AC_SL1500_-1.jpg (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business/)
 18:18:10	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Big-LED-Open-Sign-Pink-and-Green.jpg (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business/)
@@ -100,7 +100,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:26:41	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902546 (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-bar-pub-club-shop-store-business/)
 18:26:46	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640902551 (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/)
 18:26:46	Warning: 	Moved Permanently for sohu20210602.local/?p=2867
-18:26:46	Warning: 	File has moved from sohu20210602.local/?p=2867 to http://sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/
+18:26:46	Warning: 	File has moved from sohu20210602.local/?p=2867 to product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/
 18:26:46	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Extra-Large-LED-Neon-Open.jpg (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/)
 18:26:51	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/BIg-and-Bright-LED-Open-Sign.jpg (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/)
 18:28:12	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Extra-Large-LED-Neon-Open-Sign-600x600.jpg (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/)
@@ -112,7 +112,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:31:47	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902551 (from sohu20210602.local/product/large-led-open-sign-neon-bright-for-restaurant-pub-bar-club-shop-store-business/)
 18:31:53	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640902558 (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled/)
 18:31:53	Warning: 	Moved Permanently for sohu20210602.local/?p=2843
-18:31:53	Warning: 	File has moved from sohu20210602.local/?p=2843 to http://sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled/
+18:31:53	Warning: 	File has moved from sohu20210602.local/?p=2843 to product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled/
 18:31:53	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/large-led-open-signs.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled/)
 18:31:53	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Open-for-business.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled/)
 18:32:09	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Open-Signs.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled/)
@@ -122,7 +122,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:40:12	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Business-Open-Sign-2--300x300.jpg (from sohu20210602.local/product-category/lighting/)
 18:40:13	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640902571 (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/)
 18:40:17	Warning: 	Moved Permanently for sohu20210602.local/?p=2824
-18:40:17	Warning: 	File has moved from sohu20210602.local/?p=2824 to http://sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/
+18:40:17	Warning: 	File has moved from sohu20210602.local/?p=2824 to product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/
 18:40:17	Warning: 	Retry after error -4 (Incorrect length (816338 Bytes, 2398315 expected)) at link sohu20210602.local/wp-content/uploads/2021/07/DSDDSD.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/)
 18:40:17	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/exterior-lights-600x600.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/)
 18:40:17	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/outdoor-garage-lights.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/)
@@ -140,7 +140,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:55:55	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/nitrile-coated-work-gloves-for-working--300x300.jpg (from sohu20210602.local/product-category/work-protection/)
 18:56:07	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/img/bg.jpg (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640902275)
 18:56:07	Warning: 	Moved Permanently for sohu20210602.local/?p=2656
-18:56:07	Warning: 	File has moved from sohu20210602.local/?p=2656 to http://sohu20210602.local/product/countertop-joint-fasteners-double-action-4-pack/
+18:56:07	Warning: 	File has moved from sohu20210602.local/?p=2656 to product/countertop-joint-fasteners-double-action-4-pack/
 18:56:07	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/countertop-hardware.jpg (from sohu20210602.local/product/countertop-joint-fasteners-double-action-4-pack/)
 18:56:09	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Draw-Bolt-Kit.jpg (from sohu20210602.local/product/countertop-joint-fasteners-double-action-4-pack/)
 18:56:13	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Milter-Seam-Bolts-Countertop-Connector-Fastener--600x600.jpg (from sohu20210602.local/product/countertop-joint-fasteners-double-action-4-pack/)
@@ -151,10 +151,10 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:58:15	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/sink-clips.jpg (from sohu20210602.local/product/countertop-joint-fasteners-double-action-4-pack/)
 18:59:12	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Countertop-Fastener-300x300.jpg (from sohu20210602.local/product-category/hardware/)
 18:59:12	Warning: 	Moved Permanently for sohu20210602.local/?p=2640
-18:59:12	Warning: 	File has moved from sohu20210602.local/?p=2640 to http://sohu20210602.local/product/sink-clips-undermount-support-brackets-10-pack-universal-heavy-duty-epoxy-under-mounting-sink-clip-kit/
+18:59:12	Warning: 	File has moved from sohu20210602.local/?p=2640 to product/sink-clips-undermount-support-brackets-10-pack-universal-heavy-duty-epoxy-under-mounting-sink-clip-kit/
 18:59:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/laptop-desk-computer-smartphone-macbook-mobile-860249-pxhere.com-1-scaled.jpg (from sohu20210602.local/wp-content/uploads/elementor/css/post-41.css?ver=1626120044)
 18:59:24	Warning: 	Moved Permanently for sohu20210602.local/?p=41
-18:59:24	Warning: 	File has moved from sohu20210602.local/?p=41 to http://sohu20210602.local/my-account-2/
+18:59:24	Warning: 	File has moved from sohu20210602.local/?p=41 to my-account-2/
 18:59:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-includes/js/zxcvbn-async.min.js?ver=1.0 (from sohu20210602.local/my-account-2/lost-password/)
 19:00:08	Error: 	"Not Found" (404) at link sohu20210602.local/contact-us/optusnet.com.au (from sohu20210602.local/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2)
 19:00:08	Error: 	"Not Found" (404) at link sohu20210602.local/contact-us/com.au (from sohu20210602.local/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2)
@@ -162,7 +162,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:00:08	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640902626 (from sohu20210602.local/store/)
 19:00:11	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/store/page/2/ (from sohu20210602.local/store/)
 19:16:53	Warning: 	Moved Permanently for sohu20210602.local/?p=2766
-19:16:53	Warning: 	File has moved from sohu20210602.local/?p=2766 to http://sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/
+19:16:53	Warning: 	File has moved from sohu20210602.local/?p=2766 to product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/
 19:16:53	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsohu20210602.local%2Fproduct%2Fmicrofiber-cleaning-cloth-towels-large-27-x-16-300-gsm%2F (from sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/)
 19:16:55	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/3.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/)
 19:18:40	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/5.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/)
@@ -181,7 +181,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:29:10	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsohu20210602.local%2Fproduct%2Fmicrofiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable%2F (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
 19:29:11	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/microfiber-cleaning-cloth.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/)
 19:29:12	Warning: 	Moved Permanently for sohu20210602.local/?p=2787
-19:29:12	Warning: 	File has moved from sohu20210602.local/?p=2787 to http://sohu20210602.local/product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/
+19:29:12	Warning: 	File has moved from sohu20210602.local/?p=2787 to product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/
 19:29:12	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/25.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/)
 19:29:22	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/32-600x600.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/)
 19:29:28	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/cleaning-cloths-for-detailing.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/)
@@ -195,7 +195,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:29:43	Error: 	"Not Found" (404) at link sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/e[0].thumbnail_large (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902519)
 19:29:43	Error: 	"Not Found" (404) at link sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths-reusable/default.jpg (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902519)
 19:34:31	Warning: 	Moved Permanently for sohu20210602.local/?p=2854
-19:34:31	Warning: 	File has moved from sohu20210602.local/?p=2854 to http://sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled-2/
+19:34:31	Warning: 	File has moved from sohu20210602.local/?p=2854 to product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled-2/
 19:34:31	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Business-Open-Signs-600x600.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled-2/)
 19:34:41	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Open-business-sign.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled-2/)
 19:34:42	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Open-LED-Signs-600x600.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled-2/)
@@ -204,7 +204,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:36:15	Warning: 	Retry after error -4 (Incorrect length (824878 Bytes, 2370380 expected)) at link sohu20210602.local/wp-content/uploads/2021/07/Ultra-Bright-Open-Signs.jpg (from sohu20210602.local/product/large-open-sign-for-business-and-stores-ultra-bright-led-open-neon-sign-w-remote-controlled-2/)
 19:37:03	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640902948 (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip/)
 19:37:03	Warning: 	Moved Permanently for sohu20210602.local/?p=2950
-19:37:03	Warning: 	File has moved from sohu20210602.local/?p=2950 to http://sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip/
+19:37:03	Warning: 	File has moved from sohu20210602.local/?p=2950 to product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip/
 19:37:03	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/grip-work-gloves-construction.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip/)
 19:37:04	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/non-slip-work-gloves.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip/)
 19:37:06	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/safety-work-gloves-men.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip/)
@@ -213,7 +213,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:39:26	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/s-l1600-4.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft-wash-cloths/)
 19:39:34	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640903233 (from sohu20210602.local/product/large-led-open-sign-bright-neon-light-for-restaurant-bar-pub-shop-store-business/)
 19:39:37	Warning: 	Moved Permanently for sohu20210602.local/?p=2895
-19:39:37	Warning: 	File has moved from sohu20210602.local/?p=2895 to http://sohu20210602.local/product/large-led-open-sign-bright-neon-light-for-restaurant-bar-pub-shop-store-business/
+19:39:37	Warning: 	File has moved from sohu20210602.local/?p=2895 to product/large-led-open-sign-bright-neon-light-for-restaurant-bar-pub-shop-store-business/
 19:39:37	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/LED-Open-Sign-for-Day-and-Night-Bright.jpg (from sohu20210602.local/product/large-led-open-sign-bright-neon-light-for-restaurant-bar-pub-shop-store-business/)
 19:39:47	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Bright-Neon-Open-Sign-.jpg (from sohu20210602.local/product/large-led-open-sign-bright-neon-light-for-restaurant-bar-pub-shop-store-business/)
 19:40:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/LED-Business-Open-Sign-with-Remote.jpg (from sohu20210602.local/product/large-led-open-sign-bright-neon-light-for-restaurant-bar-pub-shop-store-business/)
@@ -243,7 +243,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:53:47	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/WATERPROOF-light-fixture.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed/)
 19:54:12	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640904254 (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/)
 19:54:15	Warning: 	Moved Permanently for sohu20210602.local/?p=2835
-19:54:15	Warning: 	File has moved from sohu20210602.local/?p=2835 to http://sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/
+19:54:15	Warning: 	File has moved from sohu20210602.local/?p=2835 to product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/
 19:54:15	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/house-lights-wall-mount.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/)
 19:56:05	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/outdoor-lighting-fixtures-wall-mount.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/)
 19:56:31	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/wall-lights.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/)
@@ -256,14 +256,14 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 19:58:25	Error: 	"Not Found" (404) at link sohu20210602.local/product-category/lighting/e[0].thumbnail_large (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902273)
 19:58:25	Error: 	"Not Found" (404) at link sohu20210602.local/product-category/lighting/default.jpg (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902273)
 20:01:57	Warning: 	Moved Permanently for sohu20210602.local/?p=2931
-20:01:57	Warning: 	File has moved from sohu20210602.local/?p=2931 to http://sohu20210602.local/product/rubber-coated-safety-work-gloves-8-pair-pack-firm-grip-general-purpose-repairing-and-construction/
+20:01:57	Warning: 	File has moved from sohu20210602.local/?p=2931 to product/rubber-coated-safety-work-gloves-8-pair-pack-firm-grip-general-purpose-repairing-and-construction/
 20:01:57	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/coated-safety-gloves-women.jpg (from sohu20210602.local/product/rubber-coated-safety-work-gloves-8-pair-pack-firm-grip-general-purpose-repairing-and-construction/)
 20:02:07	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/gloves-for-work-600x600.jpg (from sohu20210602.local/product/rubber-coated-safety-work-gloves-8-pair-pack-firm-grip-general-purpose-repairing-and-construction/)
 20:02:19	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/work-gloves-men.jpg (from sohu20210602.local/product/rubber-coated-safety-work-gloves-8-pair-pack-firm-grip-general-purpose-repairing-and-construction/)
 20:02:19	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904272 (from sohu20210602.local/product/rubber-coated-safety-work-gloves-8-pair-pack-firm-grip-general-purpose-repairing-and-construction/)
 20:02:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640904280 (from sohu20210602.local/product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/)
 20:02:24	Warning: 	Moved Permanently for sohu20210602.local/?p=2910
-20:02:24	Warning: 	File has moved from sohu20210602.local/?p=2910 to http://sohu20210602.local/product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/
+20:02:24	Warning: 	File has moved from sohu20210602.local/?p=2910 to product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/
 20:02:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/coated-work-gloves-for-men-women-.jpg (from sohu20210602.local/product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/)
 20:03:28	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Gardening-Gloves-for-Yardwork.jpg (from sohu20210602.local/product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/)
 20:03:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/gloves-for-wokring-600x607.jpg (from sohu20210602.local/product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/)
@@ -271,7 +271,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:03:37	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904280 (from sohu20210602.local/product/safety-work-gloves-latex-coated-8-pair-pack-firm-grip-general-purpose-repairing-and-construction-for-men-and-women/)
 20:03:42	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640904285 (from sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/)
 20:03:43	Warning: 	Moved Permanently for sohu20210602.local/?p=2921
-20:03:43	Warning: 	File has moved from sohu20210602.local/?p=2921 to http://sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/
+20:03:43	Warning: 	File has moved from sohu20210602.local/?p=2921 to product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/
 20:03:43	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Coated-work-gloves-for-women-600x600.jpg (from sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/)
 20:04:00	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/grip-gloves-for-work.jpg (from sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/)
 20:06:15	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/work-gloves-men-women-600x600.jpg (from sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/)
@@ -279,7 +279,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:06:24	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904285 (from sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/)
 20:06:30	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/gardening-gloves-women-1-300x300.jpg (from sohu20210602.local/product-category/work-protection/)
 20:08:46	Warning: 	Moved Permanently for sohu20210602.local/?p=2969
-20:08:46	Warning: 	File has moved from sohu20210602.local/?p=2969 to http://sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-3/
+20:08:46	Warning: 	File has moved from sohu20210602.local/?p=2969 to product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-3/
 20:08:46	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/coated-work-gloves-for-men.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-3/)
 20:08:49	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/gardening-work-gloves-1.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-3/)
 20:08:50	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Gardening-Yardwork-Work-Gloves.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-3/)
@@ -314,7 +314,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:10:14	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-includes/js/zxcvbn-async.min.js?ver=1.0 (from sohu20210602.local/my-account-2/lost-password/)
 20:10:15	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/store/page/2/ (from sohu20210602.local/store/)
 20:10:18	Warning: 	Moved Permanently for sohu20210602.local/store/page/1/
-20:10:18	Warning: 	File has moved from sohu20210602.local/store/page/1/ to http://sohu20210602.local/store/
+20:10:18	Warning: 	File has moved from sohu20210602.local/store/page/1/ to store/
 20:10:18	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904591 (from sohu20210602.local/store/page/3/)
 20:10:23	Error: 	"Not Found" (404) at link sohu20210602.local/store/edge/ (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902626)
 20:10:23	Error: 	"Not Found" (404) at link sohu20210602.local/store/GET (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902626)
@@ -324,14 +324,14 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:10:23	Error: 	"Not Found" (404) at link sohu20210602.local/store/default.jpg (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902626)
 20:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/feed/ (from sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:10:23	Warning: 	Moved Permanently for sohu20210602.local/?p=2729
-20:10:23	Warning: 	File has moved from sohu20210602.local/?p=2729 to http://sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/
+20:10:23	Warning: 	File has moved from sohu20210602.local/?p=2729 to product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/
 20:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/auto-detailing-supplies-.jpg (from sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:10:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/cleaning-cloths-for-home-and-car-wash-wax-polishing.jpg (from sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:11:59	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/microfiber-cleaning-towels.jpg (from sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:12:02	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/microfiber-drying-towel-.jpg (from sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:12:21	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904627 (from sohu20210602.local/product/arge-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:12:26	Warning: 	Moved Permanently for sohu20210602.local/?p=2810
-20:12:26	Warning: 	File has moved from sohu20210602.local/?p=2810 to http://sohu20210602.local/product/extra-large-microfiber-towel-microfiber-wash-cloths-ultra-soft-long-plush-6pk/
+20:12:26	Warning: 	File has moved from sohu20210602.local/?p=2810 to product/extra-large-microfiber-towel-microfiber-wash-cloths-ultra-soft-long-plush-6pk/
 20:12:26	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/soft-microfiber-towels-for-cleaning.jpg (from sohu20210602.local/product/extra-large-microfiber-towel-microfiber-wash-cloths-ultra-soft-long-plush-6pk/)
 20:12:27	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Cleaning-cloths-for-car-detailing.jpg (from sohu20210602.local/product/extra-large-microfiber-towel-microfiber-wash-cloths-ultra-soft-long-plush-6pk/)
 20:13:50	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/vvs.jpg (from sohu20210602.local/product/extra-large-microfiber-towel-microfiber-wash-cloths-ultra-soft-long-plush-6pk/)
@@ -340,23 +340,23 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:14:33	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904630 (from sohu20210602.local/product/extra-large-microfiber-towel-microfiber-wash-cloths-ultra-soft-long-plush-6pk/)
 20:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/product/extra-large-microfiber-towel-premium-microfiber-wash-cloths-ultra-soft-long-plush-2-pack/feed/ (from sohu20210602.local/product/extra-large-microfiber-towel-premium-microfiber-wash-cloths-ultra-soft-long-plush-2-pack/)
 20:14:38	Warning: 	Moved Permanently for sohu20210602.local/?p=2821
-20:14:38	Warning: 	File has moved from sohu20210602.local/?p=2821 to http://sohu20210602.local/product/extra-large-microfiber-towel-premium-microfiber-wash-cloths-ultra-soft-long-plush-2-pack/
+20:14:38	Warning: 	File has moved from sohu20210602.local/?p=2821 to product/extra-large-microfiber-towel-premium-microfiber-wash-cloths-ultra-soft-long-plush-2-pack/
 20:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904632 (from sohu20210602.local/product/extra-large-microfiber-towel-premium-microfiber-wash-cloths-ultra-soft-long-plush-2-pack/)
 20:14:42	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/feed/ (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/)
 20:14:43	Warning: 	Moved Permanently for sohu20210602.local/?p=2720
-20:14:43	Warning: 	File has moved from sohu20210602.local/?p=2720 to http://sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/
+20:14:43	Warning: 	File has moved from sohu20210602.local/?p=2720 to product/large-microfiber-cleaning-towels-36-pack/
 20:14:43	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-wash-cleaning--600x600.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/)
 20:15:07	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/micro-fibers-towels-.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/)
 20:15:23	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/microfiber-cleaning-cloth-for-cars-.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/)
 20:16:23	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/wash-towels-microfiber.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/)
 20:16:30	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904636 (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack/)
 20:16:34	Warning: 	Moved Permanently for sohu20210602.local/?p=2738
-20:16:34	Warning: 	File has moved from sohu20210602.local/?p=2738 to http://sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/
+20:16:34	Warning: 	File has moved from sohu20210602.local/?p=2738 to product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/
 20:16:34	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-wash-towels-for-furnitures-600x600.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:16:34	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/cleaning-wash-cloths.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:18:31	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/hair-drying-towel-.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths/)
 20:19:29	Warning: 	Moved Permanently for sohu20210602.local/?p=2747
-20:19:29	Warning: 	File has moved from sohu20210602.local/?p=2747 to http://sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths-2/
+20:19:29	Warning: 	File has moved from sohu20210602.local/?p=2747 to product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths-2/
 20:19:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-wash-towel-wash-cloths.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths-2/)
 20:19:44	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-wash-towel.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths-2/)
 20:19:54	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/chamois-cloth-for-car-.jpg (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths-2/)
@@ -365,7 +365,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:23:12	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904638 (from sohu20210602.local/product/large-microfiber-cleaning-towels-36-pack-ultra-soft-plush-wash-cloths-2/)
 20:23:16	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/scratch-and-streak-free.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/)
 20:23:17	Warning: 	Moved Permanently for sohu20210602.local/?p=2756
-20:23:17	Warning: 	File has moved from sohu20210602.local/?p=2756 to http://sohu20210602.local/product/microfiber-cleaning-wash-towel-cloths-large-27-x-16-300-gsm/
+20:23:17	Warning: 	File has moved from sohu20210602.local/?p=2756 to product/microfiber-cleaning-wash-towel-cloths-large-27-x-16-300-gsm/
 20:23:17	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/17.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towel-cloths-large-27-x-16-300-gsm/)
 20:23:57	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/31.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towel-cloths-large-27-x-16-300-gsm/)
 20:24:44	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/1111.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towel-cloths-large-27-x-16-300-gsm/)
@@ -381,7 +381,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:27:21	Error: 	"Not Found" (404) at link sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/e[0].thumbnail_large (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902687)
 20:27:21	Error: 	"Not Found" (404) at link sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/default.jpg (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902687)
 20:29:40	Warning: 	Moved Permanently for sohu20210602.local/?p=2685
-20:29:40	Warning: 	File has moved from sohu20210602.local/?p=2685 to http://sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft/
+20:29:40	Warning: 	File has moved from sohu20210602.local/?p=2685 to product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft/
 20:29:41	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Auto-detailing-towels.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft/)
 20:29:42	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-detailing-towels.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft/)
 20:29:42	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-wash-towels.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-premium-12-x-12-all-purpose-ultra-soft/)
@@ -393,7 +393,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:32:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link sohu20210602.local/wp-content/uploads/2021/07/ddssdf-300x300.jpg (from sohu20210602.local/product-category/microfiber/)
 20:32:03	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/feed/ (from sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/)
 20:32:04	Warning: 	Moved Permanently for sohu20210602.local/?p=2798
-20:32:04	Warning: 	File has moved from sohu20210602.local/?p=2798 to http://sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/
+20:32:04	Warning: 	File has moved from sohu20210602.local/?p=2798 to product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/
 20:32:04	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/25-1.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/)
 20:32:04	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/32-1.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/)
 20:32:46	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/1111-3.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/)
@@ -408,7 +408,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:36:38	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/cleaning-cloths-for-detailing.jpg (from sohu20210602.local/product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/)
 20:36:38	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640902935 (from sohu20210602.local/product/microfiber-cleaning-wash-towels-large-27-x-16-300-gsm-highly-absorbent/)
 20:36:39	Warning: 	Moved Permanently for sohu20210602.local/?p=2778
-20:36:39	Warning: 	File has moved from sohu20210602.local/?p=2778 to http://sohu20210602.local/product/microfiber-wash-towel-cloths-large-27-x-16-300-gsm/
+20:36:39	Warning: 	File has moved from sohu20210602.local/?p=2778 to product/microfiber-wash-towel-cloths-large-27-x-16-300-gsm/
 20:36:39	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/21.jpg (from sohu20210602.local/product/microfiber-wash-towel-cloths-large-27-x-16-300-gsm/)
 20:40:05	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/soft-microfiber-cleaning-cloths.jpg (from sohu20210602.local/product/microfiber-wash-towel-cloths-large-27-x-16-300-gsm/)
 20:40:51	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/car-detailing-towels-3.jpg (from sohu20210602.local/product/microfiber-wash-towel-cloths-large-27-x-16-300-gsm/)
@@ -461,7 +461,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:47:06	Warning: 	Retry after error -4 (Incorrect length (823739 Bytes, 2317934 expected)) at link sohu20210602.local/wp-content/uploads/2021/07/wall-lights.jpg (from sohu20210602.local/product/outdoor-indoor-wall-mount-sconce-dual-light-water-resistant-and-rustproof-led-bulb-pre-installed-wall-mounting-lantern/)
 20:49:26	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640907803 (from sohu20210602.local/product/firm-grip-coated-work-gloves-8-pair-pack-general-purpose/)
 20:49:29	Warning: 	Moved Permanently for sohu20210602.local/?p=2940
-20:49:29	Warning: 	File has moved from sohu20210602.local/?p=2940 to http://sohu20210602.local/product/firm-grip-coated-work-gloves-8-pair-pack-general-purpose/
+20:49:29	Warning: 	File has moved from sohu20210602.local/?p=2940 to product/firm-grip-coated-work-gloves-8-pair-pack-general-purpose/
 20:49:29	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/coated-safety-work-gloves.jpg (from sohu20210602.local/product/firm-grip-coated-work-gloves-8-pair-pack-general-purpose/)
 20:51:11	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/gloves-for-working.jpg (from sohu20210602.local/product/firm-grip-coated-work-gloves-8-pair-pack-general-purpose/)
 20:51:31	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Men-and-women-work-gloves-600x600.jpg (from sohu20210602.local/product/firm-grip-coated-work-gloves-8-pair-pack-general-purpose/)
@@ -475,7 +475,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:52:44	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/work-gloves-women.jpg (from sohu20210602.local/product/safety-work-gloves-rubber-coated-8-pair-pack-firm-grip-general-purpose/)
 20:52:56	Error: 	"No data (connection closed)" (-4) after 2 retries at link sohu20210602.local/wp-content/uploads/2021/07/gardening-gloves-women-1-300x300.jpg (from sohu20210602.local/product-category/work-protection/)
 20:52:56	Warning: 	Moved Permanently for sohu20210602.local/?p=2959
-20:52:56	Warning: 	File has moved from sohu20210602.local/?p=2959 to http://sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-2/
+20:52:56	Warning: 	File has moved from sohu20210602.local/?p=2959 to product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-2/
 20:52:56	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/coated-work-gloves-men-with-coating.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-2/)
 20:54:03	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/Gardening-Gloves-for-men-and-women.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-2/)
 20:55:31	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/gloves-for-working-1.jpg (from sohu20210602.local/product/work-gloves-for-men-and-women-8-pack-nitrile-coated-safety-gloves-firm-grip-2/)
@@ -495,7 +495,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:57:46	Error: 	"No data (connection closed)" (-4) after 2 retries at link sohu20210602.local/wp-content/uploads/2021/07/scratch-and-streak-free.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-towels-large-27-x-16-300-gsm/)
 20:57:54	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1640910154 (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-12-x-12-all-purpose-ultra-soft/)
 20:57:56	Warning: 	Moved Permanently for sohu20210602.local/?p=2671
-20:57:56	Warning: 	File has moved from sohu20210602.local/?p=2671 to http://sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-12-x-12-all-purpose-ultra-soft/
+20:57:56	Warning: 	File has moved from sohu20210602.local/?p=2671 to product/microfiber-cleaning-cloth-wash-towels-12-x-12-all-purpose-ultra-soft/
 20:57:56	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/ewvc.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-12-x-12-all-purpose-ultra-soft/)
 20:57:57	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/microfiber-wash-cloths.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-12-x-12-all-purpose-ultra-soft/)
 20:58:22	Warning: 	Retry after error -4 (No data (connection closed)) at link sohu20210602.local/wp-content/uploads/2021/07/ddadas.jpg (from sohu20210602.local/product/microfiber-cleaning-cloth-wash-towels-12-x-12-all-purpose-ultra-soft/)
@@ -520,7 +520,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 21:02:37	Error: 	"Not Found" (404) at link sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/e[0].thumbnail_large (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904914)
 21:02:37	Error: 	"Not Found" (404) at link sohu20210602.local/product/microfiber-cleaning-wash-cloths-large-27-x-16-300-gsm/default.jpg (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904914)
 21:02:37	Warning: 	Moved Permanently for sohu20210602.local/product-category/microfiber/page/1/
-21:02:37	Warning: 	File has moved from sohu20210602.local/product-category/microfiber/page/1/ to http://sohu20210602.local/product-category/microfiber/
+21:02:37	Warning: 	File has moved from sohu20210602.local/product-category/microfiber/page/1/ to product-category/microfiber/
 21:02:37	Error: 	"Not Found" (404) at link sohu20210602.local/product-category/microfiber/page/2/edge/ (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904916)
 21:02:37	Error: 	"Not Found" (404) at link sohu20210602.local/product-category/microfiber/page/2/GET (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904916)
 21:02:37	Error: 	"Not Found" (404) at link sohu20210602.local/product-category/microfiber/page/2/this.config.iconUrl,window.location (from sohu20210602.local/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1640904916)
