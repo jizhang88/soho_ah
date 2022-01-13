@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://sohu20210602.local</homePageLink>
+		<homePageLink>https://sohomerchandise.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="index.php?rest_route=/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://sohomerchandise.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://sohomerchandise.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://sohomerchandise.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://sohomerchandise.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://sohomerchandise.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
